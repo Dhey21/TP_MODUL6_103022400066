@@ -1,0 +1,15 @@
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\bin\Debug\net10.0\TP_MODUL6_103022400066.exe
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\bin\Debug\net10.0\TP_MODUL6_103022400066.deps.json
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\bin\Debug\net10.0\TP_MODUL6_103022400066.runtimeconfig.json
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\bin\Debug\net10.0\TP_MODUL6_103022400066.dll
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\bin\Debug\net10.0\TP_MODUL6_103022400066.pdb
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\TP_MODUL6_103022400066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\TP_MODUL6_103022400066.AssemblyInfoInputs.cache
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\TP_MODUL6_103022400066.AssemblyInfo.cs
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\TP_MODUL6_103022400066.csproj.CoreCompileInputs.cache
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\TP_MODUL6_103022400066.sourcelink.json
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\TP_MODUL6_103022400066.dll
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\refint\TP_MODUL6_103022400066.dll
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\TP_MODUL6_103022400066.pdb
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\TP_MODUL6_103022400066.genruntimeconfig.cache
+C:\Users\dddzu\source\repos\TP_MODUL6_103022400066\obj\Debug\net10.0\ref\TP_MODUL6_103022400066.dll
